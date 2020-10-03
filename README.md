@@ -4,7 +4,7 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently just learning everything 🤣
+- 🌱 I’m currently just learning everything 
 - 🥅 Future Goals: Create more personal projects.
 
 
